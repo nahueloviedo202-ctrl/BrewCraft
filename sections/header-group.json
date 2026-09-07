@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Delivery — Your Plant Care Guide, Ready in Seconds",
+            "text": "Instant Delivery — Your Makeup Guide, Ready in Seconds",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Access — Start Growing Right Away",
+            "text": "Instant Access — Start Glowing Right Away",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Digital Download — Greener Plants Start Now",
+            "text": "Digital Download — Your Best Look Starts Now",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
