@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/VXCEU.jpg",
+    "logo": "shopify://shop_images/liogo.webp",
     "logo_height": 70,
     "logo_height_mobile": 60,
     "page_text_color": "{{ settings.color_palette.foreground }}",
