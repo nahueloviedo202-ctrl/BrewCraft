@@ -2105,7 +2105,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your makeup guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
+                    "text": "<p>Get your coffee guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2288,7 +2288,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>The tips were easy to follow and my makeup looked amazing. I tried the everyday glow routine on my first try and it worked perfectly.</p>",
+            "text": "<p>The tips were easy to follow and my coffee tasted amazing. I tried the pour-over method on my first try and it worked perfectly.</p>",
             "author": "Sarah M."
           },
           "blocks": {}
@@ -2302,7 +2302,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for quick makeup during the week. Simple techniques and great results. I never thought doing my makeup could be this easy.</p>",
+            "text": "<p>Perfect for quick brewing during the week. Simple techniques and great results. I never thought brewing coffee could be this easy.</p>",
             "author": "Ellie R."
           },
           "blocks": {}
@@ -2316,7 +2316,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>I loved the digital format. I could follow everything directly from my phone while doing my makeup. Highly recommend to anyone who wants a flawless look.</p>",
+            "text": "<p>I loved the digital format. I could follow everything directly from my phone while brewing. Highly recommend to anyone who wants café-quality coffee at home.</p>",
             "author": "Emily T."
           },
           "blocks": {}
@@ -2506,7 +2506,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Do I need makeup experience?",
+                "heading": "Do I need brewing experience?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
